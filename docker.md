@@ -1,7 +1,5 @@
 # Docker Interview Notes – `docker.md`
 
-> Quick, revision-friendly notes for Docker interviews.
-
 ---
 
 ## 1. What is Docker?
