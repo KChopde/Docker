@@ -1,4 +1,4 @@
-# Docker – Complete Notes for Developers & Interviews
+# Docker
 
 ## 1. Introduction
 Docker is a **containerization platform** that packages an application and its dependencies into a standardized unit called a **container**.  
